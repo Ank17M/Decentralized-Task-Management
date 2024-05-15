@@ -5,28 +5,6 @@ This project is a decentralized task management system built on blockchain techn
 Task Manager Folder: Contains the smart contract for managing tasks on the blockchain.
 Page Folder: Contains the front-end web application for interacting with the task manager smart contract.
 
-Folder Structure
-decentralized-task-management/
-│
-├── task-manager/
-│   ├── contracts/
-│   │   ├── TaskManager.sol
-│   ├── migrations/
-│   ├── test/
-│   ├── truffle-config.js
-│   └── README.md
-│
-├── page/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── App.js
-│   │   ├── index.js
-│   ├── public/
-│   ├── package.json
-│   ├── README.md
-│   └── ...
-│
-├── README.md
 
 Getting Started
 Node.js and npm: Ensure you have Node.js and npm installed. You can download and install them from Node.js official website.
