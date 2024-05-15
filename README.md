@@ -23,7 +23,7 @@ Setting Up the Smart Contract<br />
 4. Deploy the smart contracts:<br />
    ├── Ensure you have a local blockchain running (e.g., using Ganache),<br />
    └── then deploy the contracts:<br />
-                ``` truffle migrate ```<br />
+    ``` truffle migrate ```<br />
 
 Running the Web Application<br />
 1. Navigate to the page folder:<br />
