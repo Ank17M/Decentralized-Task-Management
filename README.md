@@ -41,7 +41,7 @@ This project is a decentralized task management system built on blockchain techn
 
 
 **-Page Folde**r<br />
-    ├── src/: Contains the source code for HTML page, CSS and JavaScript.<br />
+    ├── src/: Contains the source code for HTML page, CSS and JavaScript.<br />
     ├── components/: Contains HTML PAGE components.<br />
     ├── index.html: Main Web-application component.<br />
     └── script.js: Script to handle the page events.<br />
