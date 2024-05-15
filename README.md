@@ -33,11 +33,11 @@ This project is a decentralized task management system built on blockchain techn
 
 **->Project Structure Details**<br />
 **-Task Manager Folder**<br />
-  ├── contracts/: Contains the Solidity smart contracts.<br />
-  ├── TaskManager.sol: The main smart contract for managing tasks.<br />
-  ├── migrations/: Contains migration scripts for deploying smart contracts.<br />
-  ├── test/: Contains test scripts for the smart contracts.<br />
-  └── truffle-config.js: Truffle configuration file.<br />
+     ├── contracts/: Contains the Solidity smart contracts.<br />
+     ├── TaskManager.sol: The main smart contract for managing tasks.<br />
+     ├── migrations/: Contains migration scripts for deploying smart contracts.<br />
+     ├── test/: Contains test scripts for the smart contracts.<br />
+     └── truffle-config.js: Truffle configuration file.<br />
 
 **-Page Folde**r<br />
   ├── src/: Contains the source code for HTML page, CSS and JavaScript.<br />
