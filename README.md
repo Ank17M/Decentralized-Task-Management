@@ -10,16 +10,16 @@ This project is a decentralized task management system built on blockchain techn
 **Getting Started**
 -Node.js and npm: Ensure you have Node.js and npm installed. You can download and install them from Node.js official website.<br />
 -Truffle: Install Truffle globally using npm:<br />
- └──``` npm install -g truffle ```<br />
+ └── ``` npm install -g truffle ```<br />
 -MetaMask: A browser extension for interacting with the Ethereum blockchain. You can install it from MetaMask website.<br />
 
 **Setting Up the Smart Contract**<br />
 1. Navigate to the task-manager folder:<br />
-   └──``` cd decentralized-task-management/task-manager ```br />
+   └── ``` cd decentralized-task-management/task-manager ```br />
 2. Install dependencies:<br />
-   └──``` npm install ```<br />
+   └── ``` npm install ```<br />
 3. Compile the smart contracts:<br />
-   └──``` truffle compile ```<br />
+   └── ``` truffle compile ```<br />
 4. Deploy the smart contracts:<br />
    ├── Ensure you have a local blockchain running (e.g., using Ganache),<br />
    ├── then deploy the contracts:<br />
@@ -27,7 +27,7 @@ This project is a decentralized task management system built on blockchain techn
 
 **Running the Web Application**<br />
 1. Navigate to the page folder:<br />
-   └──``` cd decentralized-task-management/page ```<br />
+   └── ``` cd decentralized-task-management/page ```<br />
 2. Open the index page<br />
 
 
