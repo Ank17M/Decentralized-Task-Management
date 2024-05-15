@@ -10,7 +10,7 @@ It includes two main components:<br />
 Getting Started
 -Node.js and npm: Ensure you have Node.js and npm installed. You can download and install them from Node.js official website.<br />
 -Truffle: Install Truffle globally using npm:<br />
-  ``` npm install -g truffle ```<br />
+    ``` npm install -g truffle ```<br />
 -MetaMask: A browser extension for interacting with the Ethereum blockchain. You can install it from MetaMask website.<br />
 
 Setting Up the Smart Contract<br />
