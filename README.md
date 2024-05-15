@@ -31,7 +31,7 @@ This project is a decentralized task management system built on blockchain techn
 2. Open the index page<br />
 
 
-***Project Structure Details**<br />
+**->Project Structure Details**<br />
 **-Task Manager Folder**<br />
 ├── contracts/: Contains the Solidity smart contracts.<br />
 ├── TaskManager.sol: The main smart contract for managing tasks.<br />
@@ -45,7 +45,7 @@ This project is a decentralized task management system built on blockchain techn
 ├── index.html: Main Web-application component.<br />
 └── script.js: Script to handle the page events.<br />
 
-***Usage**<br />
+**->Usage**<br />
 **-Adding a Task**<br />
 ├── Open the web application in your browser.<br />
 ├── Connect your MetaMask wallet.<br />
