@@ -3,8 +3,8 @@ Overview<br />
 This project is a decentralized task management system built on blockchain technology. <br />
 
 It includes two main components:<br />
--Task Manager Folder: Contains the smart contract for managing tasks on the blockchain.<br />
--Page Folder: Contains the front-end web application for interacting with the task manager smart contract.<br />
+**-Task Manager Folder:** Contains the smart contract for managing tasks on the blockchain.<br />
+**-Page Folder:** Contains the front-end web application for interacting with the task manager smart contract.<br />
 
 
 Getting Started
