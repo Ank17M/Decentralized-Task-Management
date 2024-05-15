@@ -15,7 +15,7 @@ Getting Started
 
 Setting Up the Smart Contract<br />
 1. Navigate to the task-manager folder:<br />
-  # cd decentralized-task-management/task-manager<br />
+  ''' cd decentralized-task-management/task-manager '''<br />
 2. Install dependencies:<br />
   npm install<br />
 3. Compile the smart contracts:<br />
