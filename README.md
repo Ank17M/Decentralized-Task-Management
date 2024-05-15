@@ -21,11 +21,11 @@ Setting Up the Smart Contract
 3. Compile the smart contracts:
   truffle compile
 4. Deploy the smart contracts:
-   ├── Ensure you have a local blockchain running (e.g., using Ganache),
-   └── then deploy the contracts:
-        truffle migrate
+   ├── Ensure you have a local blockchain running (e.g., using Ganache),<br />
+   └── then deploy the contracts:<br />
+        truffle migrate<br />
 
-Running the Web Application
+Running the Web Application<br />
 1. Navigate to the page folder:
   cd decentralized-task-management/page
 2. Open the index page
@@ -33,28 +33,28 @@ Running the Web Application
 
 Project Structure Details
 -Task Manager Folder
-contracts/: Contains the Solidity smart contracts.
-TaskManager.sol: The main smart contract for managing tasks.
-migrations/: Contains migration scripts for deploying smart contracts.
-test/: Contains test scripts for the smart contracts.
-truffle-config.js: Truffle configuration file.
+contracts/: Contains the Solidity smart contracts.<br />
+TaskManager.sol: The main smart contract for managing tasks.<br />
+migrations/: Contains migration scripts for deploying smart contracts.<br />
+test/: Contains test scripts for the smart contracts.<br />
+truffle-config.js: Truffle configuration file.<br />
 
 -Page Folder
-src/: Contains the source code for HTML page, CSS and JavaScript.
-components/: Contains HTML PAGE components.
-index.html: Main Web-application component.
-script.js: Script to handle the page events.
+src/: Contains the source code for HTML page, CSS and JavaScript.<br />
+components/: Contains HTML PAGE components.<br />
+index.html: Main Web-application component.<br />
+script.js: Script to handle the page events.<br />
 
 Usage
 -Adding a Task
-Open the web application in your browser.
-Connect your MetaMask wallet.
-Use the provided form to add a new task.
+Open the web application in your browser.<br />
+Connect your MetaMask wallet.<br />
+Use the provided form to add a new task.<br />
 
 -Viewing Tasks
-Tasks added via the web application are stored on the blockchain.
-The task list can be viewed and managed through the web application interface.
+Tasks added via the web application are stored on the blockchain.<br />
+The task list can be viewed and managed through the web application interface.<br />
 
 -Completing a Task
-Use the web application to mark tasks as completed.
-The status update is recorded on the blockchain.
+Use the web application to mark tasks as completed.<br />
+The status update is recorded on the blockchain.<br />
