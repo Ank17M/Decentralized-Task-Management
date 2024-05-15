@@ -21,9 +21,9 @@ Setting Up the Smart Contract
 3. Compile the smart contracts:
   truffle compile
 4. Deploy the smart contracts:
-├── Ensure you have a local blockchain running (e.g., using Ganache), 
-└── then deploy the contracts:
-    truffle migrate
+   ├── Ensure you have a local blockchain running (e.g., using Ganache),
+   └── then deploy the contracts:
+        truffle migrate
 
 Running the Web Application
 1. Navigate to the page folder:
@@ -50,9 +50,11 @@ Usage
 Open the web application in your browser.
 Connect your MetaMask wallet.
 Use the provided form to add a new task.
+
 -Viewing Tasks
 Tasks added via the web application are stored on the blockchain.
 The task list can be viewed and managed through the web application interface.
+
 -Completing a Task
 Use the web application to mark tasks as completed.
 The status update is recorded on the blockchain.
