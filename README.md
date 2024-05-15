@@ -27,7 +27,7 @@ This project is a decentralized task management system built on blockchain techn
 
 **Running the Web Application**<br />
 1. Navigate to the page folder:<br />
-   └──```cd decentralized-task-management/page ```<br />
+   └──``` cd decentralized-task-management/page ```<br />
 2. Open the index page<br />
 
 
